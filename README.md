@@ -1,8 +1,12 @@
 # intro
 
-## HuiChing Tseng
+## 曾惠靖
 
-### School:NKUST
+### 學校:高雄第一科大 碩專班
 
-#### Student
+#### 職稱:工程師
+
+##### 專長:DB
+
+###### 興趣: 打臉老闆
 
